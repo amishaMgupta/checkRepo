@@ -1,0 +1,56 @@
+{
+    "home":[{
+        "id":1,
+        "name":"Black and Gold Glass Votive",
+        "size": "12X12",
+        "description":"this is first produuct",
+        "price":1200,
+        "imageurl":"glass-votive01"
+    },
+    {
+        "id":2,
+        "name":"Giant Wheel",
+        "size": "12X12",
+        "description":"this is second produuct",
+        "price":1200,
+        "imageurl":"giant-wheel01"
+    },
+    
+    {
+        "id":3,
+        "name":"Lotus with Glass",
+        "size": "12X12",
+        "description":"this is Third produuct",
+        "price":1200,
+        "imageurl":"lotus-with-glass"
+    },
+    {
+        "id":4,
+        "name":"Lotus with Glass",
+        "size": "12X12",
+        "description":"this is Third produuct",
+        "price":1200,
+        "imageurl":"lotus-with-glass"
+    }
+
+
+    ],
+    "kitchen":[{
+        "id":1,
+        "name":"Black and Gold Glass Votive",
+        "size": "12X12",
+        "description":"this is first produuct",
+        "price":1200,
+        "imageurl":"glass-votive01"
+    },
+    {
+        "id":2,
+        "name":"Giant Wheel",
+        "size": "12X12",
+        "description":"this is second produuct",
+        "price":1200,
+        "imageurl":"giant-wheel01"
+    }
+
+    ]
+}
